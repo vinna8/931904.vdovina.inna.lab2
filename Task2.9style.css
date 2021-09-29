@@ -1,0 +1,16 @@
+#content{
+	color: white;
+	font-family: Times, "Times New Roman", serif;
+	background-color: blue;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 600px;
+	height: auto;
+}
+
+img{
+	float: right;
+	margin-left: 15px;
+	margin-bottom: 10px;
+}

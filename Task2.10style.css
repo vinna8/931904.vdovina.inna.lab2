@@ -1,0 +1,12 @@
+body{
+	font-family: Times, "Times New Roman", serif;
+}
+
+#content1{
+	background-color: aquamarine;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-bottom: 10px;
+	width: 200px;
+	height: 100px;
+}

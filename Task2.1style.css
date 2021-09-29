@@ -1,0 +1,32 @@
+body, h1{
+	margin: 0px;
+	padding: 0px;
+	line-height: 1.5em;
+	font-family: Times, "Times New Roman", serif;
+}
+#header{
+	padding-left: 8px;
+	height: 80px;
+	background-color: #EAEAEA;
+}
+
+#leftColumn{
+	padding-left: 8px;
+	padding-right: 8px;
+	background-color: #C8FC98;
+	width: 200px;
+	float: left;
+}
+
+#contentColumn{
+	overflow: hidden;
+	padding-left: 8px;
+	padding-right: 5px;
+}
+
+#footer{ 
+	padding: 5px;
+	clear: left;
+	text-align: center;
+	background-color: black;
+}

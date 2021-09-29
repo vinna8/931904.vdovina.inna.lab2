@@ -1,0 +1,37 @@
+body{
+	font-family: Times, "Times New Roman", serif;
+}
+
+#block1{
+	background-color: aqua;
+	border: solid 1px green;
+}
+
+@media (min-width: 701px){	
+	#block3{
+		background-color: darkgray;
+		margin-left: 505px;
+		margin-right: 5px;
+	}	
+}
+
+#block2{
+	background-color: bisque;
+	width: 500px;
+    padding-top: 5px;
+	float: left;
+}
+
+@media (max-width: 700px){
+	#block2{
+		background-color: bisque;
+		width: 120px;
+	}
+}
+
+#block3{
+	background-color: darkgray;
+    margin-top: 50px;
+	width: 360px;
+	clear: left;
+}  

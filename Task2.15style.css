@@ -1,0 +1,11 @@
+body{
+	font-family: Times, "Times New Roman", serif;
+}
+
+.block{
+	background-color: aquamarine;
+	height: 100px;
+	width: 200px;
+	margin: 10px;
+	display: inline-block;
+}

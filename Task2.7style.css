@@ -1,0 +1,54 @@
+body{
+	font-family: Times, "Times New Roman", serif;
+	color: white;
+	margin: 8px;
+}
+
+#block1{
+	background-color: blueviolet;
+	position: static;
+	height:100px;
+	width: 150px;
+}
+
+.relative{
+	position: relative;
+}
+
+#block2{
+	background-color: darkred;
+	height:100px;
+	width: 150px;
+}
+
+#block3{
+	background-color: peru;
+	height:100px;
+	width: 150px;
+	left: 30px;
+	bottom: 30px;
+}
+
+#block4{
+	background-color: indianred;
+	height:350px;
+	width: 500px;
+}
+
+#block5{
+	background-color: indigo;
+	position: absolute;
+	height:175px;
+	width: 300px;
+	left: 208px;
+	top: 415px;
+}
+
+#block6{
+	background-color: forestgreen;
+	position: fixed;
+	height:100px;
+	width: 100px;
+	right: 0px;
+	bottom: 0px;
+}

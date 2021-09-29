@@ -1,0 +1,25 @@
+body{
+	font-family: Times, "Times New Roman", serif;
+}
+
+#block1{
+	background-color: aqua;
+	border: solid 1px green;
+}
+
+img{
+	float: right;
+	width: 45%;
+}
+
+#block2{
+	background-color: bisque;
+	width: 25%;
+    padding-top: 5px;
+	float: left;
+}
+
+#block3{
+	background-color: darkgray;
+	margin-left: 25%;
+}

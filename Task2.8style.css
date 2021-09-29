@@ -1,0 +1,29 @@
+body{
+	font-family: Times, "Times New Roman", serif;
+}
+
+#block1{
+	background-color: aqua;
+}
+
+#block2{
+	background-color: bisque;
+	width: 200px;
+    padding-top: 5px;
+	float: left;
+}
+
+#block3{
+	background-color: darkgray;
+	margin-left: 200px;
+}
+
+#footer{
+	background-color: limegreen;
+	position: fixed;
+	height: 40px;
+	bottom: 0px;
+	left: 0px;
+	width: 100%;
+}
+
